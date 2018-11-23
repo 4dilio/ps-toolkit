@@ -2,7 +2,7 @@
 PowerShell Toolkit; a collection of PowerShell scripts
 
 **OS Family**|**OS Name**|**Version**|**Module Tested**|**Module Working**
-:-----:|:-----:|:-----:|:-----:|:-----:
+-----|-----|-----|-----|-----
 Linux|RHEL Server|6|No|No
 Linux|RHEL Server|7|No|No
 Linux|Ubuntu Server|14.04 LTS|No|No
